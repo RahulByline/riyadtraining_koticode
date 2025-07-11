@@ -12,7 +12,6 @@ import {
 import { useState } from 'react';
 import { CourseDetailsModal } from '../CourseDetailsModal';
 import { AIAnalyticsDashboard } from './AIAnalyticsDashboard';
-import { UserManagement } from './UserManagement';
 
 interface AdminStats {
   totalUsers: number;
